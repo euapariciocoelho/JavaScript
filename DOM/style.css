@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#msg{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.oculto{
+    opacity: 0;
+}
+
+.mostrar{
+    border: 1px solid black;
+    width: 50%;
+    opacity: 1;
+}
