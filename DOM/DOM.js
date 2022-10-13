@@ -32,3 +32,4 @@ document.addEventListener('keydown', function(event){ //pega teclas que foram di
 
     const eventKey = event.key === 'Escape'
 })
+
